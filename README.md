@@ -1,10 +1,12 @@
 ### Hi there, I'm Gizem 👋
 
-I am a PhD candidate at University of Illinois at Urbana-Champaign. My research is in signal processing and machine learning with applications on audio processing, biomedical sensing and acoustic wireless communications. I like solving puzzles, listening to stuff and being outdoors. 
+I've spent some time working with signal processing and machine learning. My interests range from audio processing to biomedical sensing and acoustic wireless communications.
 
-In this GitHub repo, I have some examples of my work in audio processing and machine learning. For more projects and publications, you can check out  
-🔗 My personal webpage: https://gizemtabak.com  
-🔗 My LinkedIn profile: https://www.linkedin.com/in/gizem-tabak/
+- 🔭 Currently, I'm working on some super cool audio machine learning projects at work.
+- 🌱 I'm eager to learn more about contributing to open-source and bringing machine learning systems into real-world use.
+- 🤓 I'm on the lookout for a paper reading&coding group on audio ML and/or LLMs. Let's connect if you're aware of one or are interested in setting up a new one!
+
+Below a glimpse of my previous works, primarily from my time in grad school. For a closer look, feel free to visit [my personal webpage](https://gizemtabak.com) or [my LinkedIn profile](https://www.linkedin.com/in/gizem-tabak/).
 
 <!--
 **gizemt/gizemt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
